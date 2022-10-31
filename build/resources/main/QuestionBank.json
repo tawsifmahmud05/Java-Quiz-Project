@@ -1,0 +1,138 @@
+[
+  {
+    "option c": "Support Plan",
+    "option d": "All of these",
+    "answer": "a",
+    "Question": "Test plans are based on which one?",
+    "option a": "Project Plan",
+    "option b": "Business Plan"
+  },
+  {
+    "option c": "Evaluations to be performed",
+    "option d": "Documents that are produced by the SQA team.",
+    "answer": "c",
+    "Question": "Select which option is not true about SQA�\u20AC�?",
+    "option a": "Audits and reviews to be performed by the team",
+    "option b": "Amount of technical work to be performed"
+  },
+  {
+    "option c": "Quality Assurance",
+    "option d": "None of the above.",
+    "answer": "a",
+    "Question": "A product which is manufactured by using the degree of the design specification�\u20AC�",
+    "option a": "Quality of conformance",
+    "option b": "Quality Control"
+  },
+  {
+    "option c": "test equipment reviews",
+    "option d": "quality planning reviews",
+    "answer": "a",
+    "Question": "Which of the following is not included in prevention cost?",
+    "option a": "equipment calibration and maintenance",
+    "option b": "formal technical reviews"
+  },
+  {
+    "option c": "testing",
+    "option d": "quality planning",
+    "answer": "d",
+    "Question": "Select the option which is not an appraisal in SQA?",
+    "option a": "inter-process inspection",
+    "option b": "maintenance"
+  },
+  {
+    "option c": "warranty work",
+    "option d": "complaint resolution",
+    "answer": "a",
+    "Question": "Select which one is not an  External failure costs?",
+    "option a": "testing",
+    "option b": "helpline support"
+  },
+  {
+    "option c": "Developer�\u20AC�s & User�\u20AC�s end",
+    "option d": "None of the mentioned",
+    "answer": "a",
+    "Question": "Alpha testing is done at___?",
+    "option a": "Developer�\u20AC�s end",
+    "option b": "User�\u20AC�s end"
+  },
+  {
+    "option c": "White Box & Black Box Testing",
+    "option d": "None of the mentioned",
+    "answer": "b",
+    "Question": "Boundary value analysis belong to?",
+    "option a": "White Box Testing",
+    "option b": "Black Box Testing"
+  },
+  {
+    "option c": "Integration Testing",
+    "option d": "All of the mentioned",
+    "answer": "d",
+    "Question": "What are the various Testing Levels?",
+    "option a": "Unit Testing",
+    "option b": "System Testing"
+  },
+  {
+    "option c": "Condition Coverage",
+    "option d": "All of the mentioned",
+    "answer": "d",
+    "Question": "Which of the following is\/are White box technique?",
+    "option a": "Statement Testing",
+    "option b": "Decision Testing"
+  },
+  {
+    "option c": "Error guessing technique",
+    "option d": "None of the mentioned",
+    "answer": "b",
+    "Question": "White Box techniques are also classified as",
+    "option a": "Design based testing",
+    "option b": "Structural testing"
+  },
+  {
+    "option c": "A stage of all projects",
+    "option d": "None of the mentioned",
+    "answer": "b",
+    "Question": "Which of the following term describes testing?",
+    "option a": "Finding broken code",
+    "option b": "Evaluating deliverable to find errors"
+  },
+  {
+    "option c": "Red box testing",
+    "option d": "Green box testing",
+    "answer": "b",
+    "Question": "The testing in which code is checked",
+    "option a": "Black box testing",
+    "option b": "White box testing"
+  },
+  {
+    "option c": "Unit testing",
+    "option d": "None of the mentioned",
+    "answer": "b",
+    "Question": "Which of the following is non-functional testing?",
+    "option a": "Black box testing",
+    "option b": "Performance testing"
+  },
+  {
+    "option c": "User�\u20AC�s & Developer�\u20AC�s end",
+    "option d": "None of the mentioned",
+    "answer": "a",
+    "Question": "Beta testing is done at__",
+    "option a": "User�\u20AC�s end",
+    "option b": "Developer�\u20AC�s end"
+  },
+  {
+    "option c": "Customers",
+    "option d": "None of the mentioned",
+    "answer": "b",
+    "Question": "Unit testing is done by__",
+    "option a": "Users",
+    "option b": "Developers"
+  },
+  {
+    "option c": "Grey box testing",
+    "option d": "None of the mentioned",
+    "answer": "b",
+    "Question": "Behavioral testing is___",
+    "option a": "White box testing",
+    "option b": "Black box testing"
+  }
+]
